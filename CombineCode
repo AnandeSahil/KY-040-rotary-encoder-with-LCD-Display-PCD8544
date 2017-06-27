@@ -1,3 +1,4 @@
+/*
 The circuit:
  * LCD RS pin to digital pin 12
  * LCD Enable pin to digital pin 11
@@ -11,7 +12,6 @@ The circuit:
  * 10K resistor:
  * ends to +5V and ground
  * wiper to LCD VO pin (pin 3)
-
 */
 
  #include <PCD8544.h>
