@@ -2,4 +2,4 @@ For individual testing of rotary encoder, follow
 
 http://www.instructables.com/id/Arduino-Rotary-Encoder-Simple-Example-KY-040/
 
-It is always better to test individual modules rather than directly interfacing the two modules. 
+It is always better to test individual module rather than directly interfacing the two modules. 
